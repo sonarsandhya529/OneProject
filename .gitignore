@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+farmers.db
+.streamlit/secrets.toml
+Crop_recommendation.csv
